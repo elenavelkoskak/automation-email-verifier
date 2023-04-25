@@ -1,0 +1,4 @@
+Email,ToolsetScore,Mailbox Verification,Mail Send advice,Overal Risk score
+elena@hotmail.com,High (7.25),Ok (Success),9.25 Safe To Send,0.8 Allow
+a@test.com,Low (0.1),Bad (NoMxServersFound),0.1 Do Not Send,0 Allow
+jbhsdej.test,,,,
